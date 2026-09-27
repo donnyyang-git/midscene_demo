@@ -1,0 +1,11 @@
+# 環境變數與機密
+.env
+
+# Playwright與 Midscene 測試報告與結果
+midscene_run/
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/

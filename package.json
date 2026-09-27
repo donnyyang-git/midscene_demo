@@ -1,0 +1,16 @@
+{
+  "name": "midscene_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@midscene/web": "^1.13.3",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
